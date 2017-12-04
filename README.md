@@ -20,15 +20,19 @@
 
 ## 改进结果
 * `ls` 与 `./myls` 对比
+
 ![](./jpg/ls01.jpg)
 
 * `./myls vmware-tools-distrib/` 与 `ls vmware-tools-distrib/` 对比
+
 ![](./jpg/ls02.jpg)
 
 * `ls m*` 与 `./myls m*` 对比
+
 ![](./jpg/ls03.jpg)
 
 * `ls m?ls*` 与 `./myls m?ls*` 对比
+
 ![](./jpg/ls04.jpg)
 
 ## 许可证
