@@ -2,4 +2,4 @@ language: c
 compiler:
     - gcc
     - clang
-script: (CC -o myls myls.c; ./myls)
+script: ($CC -o myls myls.c; ./myls)
